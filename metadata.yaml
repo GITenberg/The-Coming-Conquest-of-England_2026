@@ -1,0 +1,43 @@
+_repo: The-Coming-Conquest-of-England_2026
+_version: 0.0.1
+alternative_title: Der Weltkrieg. English
+contributor:
+  translator:
+    agent_name: Freese, John Henry
+    alias: Freese, J. H. (John Henry)
+    gutenberg_agent_id: '37625'
+    url: http://www.gutenberg.org/2009/agents/37625
+creator:
+  author:
+    agent_name: Niemann, August
+    aliases:
+    - Niemann, A. (August)
+    - Niemann, Wilhelm Otto August
+    birthdate: 1839
+    deathdate: 1919
+    gutenberg_agent_id: '790'
+    url: http://www.gutenberg.org/2009/agents/790
+    wikipedia: http://de.wikipedia.org/wiki/August_Niemann
+description: Front Cover; Title Page; Copyright; Contents; Author's Preface; The Council
+  of State; The Officers' Mess; A Russian Comrade; The Circassian Beauty; The Captain's
+  Wife; The Outrage; The Maharajah; The Pamirs; The German Emperor; Five Lakhs of
+  Rupees; The Mobilisation; The Camp of Lahore; The Battle; In the Panic-Stricken
+  City; The Court-Martial; The Professor; Downing Street; The Young Russian Captain
+  of Dragoons; On the Road to Simla; A Friend in Need; Edith's Adventures; The Ethics
+  of Espionage; Homeward Bound; The Adventures of the Caledonia; A Suspicious Fishing-Smack;
+  Camille Penurot.
+gutenberg_issued: '2006-05-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2026'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcc 'PT'
+- !lcsh 'Imaginary wars and battles'
+- GITenberg
+title: The Coming Conquest of England
+url: http://www.gutenberg.org/ebooks/2026

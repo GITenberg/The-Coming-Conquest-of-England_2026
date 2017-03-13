@@ -1,5 +1,5 @@
 _repo: The-Coming-Conquest-of-England_2026
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Der Weltkrieg. English
 contributor:
   translator:
@@ -7,6 +7,9 @@ contributor:
     alias: Freese, J. H. (John Henry)
     gutenberg_agent_id: '37625'
     url: http://www.gutenberg.org/2009/agents/37625
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Niemann, August
@@ -26,6 +29,8 @@ description: Front Cover; Title Page; Copyright; Contents; Author's Preface; The
   of Dragoons; On the Road to Simla; A Friend in Need; Edith's Adventures; The Ethics
   of Espionage; Homeward Bound; The Adventures of the Caledonia; A Suspicious Fishing-Smack;
   Camille Penurot.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2026#The-Coming-Conquest-of-England
 gutenberg_issued: '2006-05-14'
 gutenberg_type: Text
 identifiers:
